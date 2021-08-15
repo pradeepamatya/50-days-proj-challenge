@@ -1,1 +1,1 @@
-![cheese](images/expanding-cards.jpg)
+![cheese](image/expanding-cards.jpg)
