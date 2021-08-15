@@ -1,1 +1,1 @@
-![cheese](chrome_qyB2F7odHF.jpg)
+![cheese](progress-bar.png)
