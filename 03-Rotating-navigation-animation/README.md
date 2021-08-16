@@ -1,1 +1,2 @@
-![rotating-images](images/rotating-navigation.jpg)
+![rotating-images](images/rotating-navigation.png
+)
