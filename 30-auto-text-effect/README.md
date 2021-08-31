@@ -1,0 +1,1 @@
+![auto text effect](images/auto-text-effect.png)
