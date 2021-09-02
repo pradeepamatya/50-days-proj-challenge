@@ -1,0 +1,1 @@
+![good cheap fast checkbox](images/good-cheap-fast-checkbok.png)
