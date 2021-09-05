@@ -1,1 +1,1 @@
-![Add note](images/.png)
+![notes app](images/notes.app.png)
