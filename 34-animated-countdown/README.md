@@ -1,1 +1,1 @@
-![github profile](images/github-profile.png)
+![animated countdown](images/animated-countdown.png)
